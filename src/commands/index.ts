@@ -1,3 +1,4 @@
+import { Education } from './education';
 import { Help } from './help';
 import { Lang } from './lang';
 import { Mixer } from './mixer';
@@ -13,6 +14,7 @@ export const commands = [
   new Help(),
   new Time(),
   new Lang(),
+  new Education(),
   new Projects(),
   new Pgp(),
   new Ssh(),
