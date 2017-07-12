@@ -42,12 +42,17 @@ export class Lang implements Command {
       Programming Languages:
       - TypeScript: Advanced
       - JavaScript: Advanced
+      - ReQL (RethinkDB query language): Intermediate
       - Java: Intermediate
+      - SQL: Intermediate
       - Python: Intermediate
       - PHP: Elementary - Intermediate
       - GoLang: Elementary
 
       JavaScipt Frameworks:
+      - HapiJS: Advanced
+      - ExpressJS: Intermediate
+      - Electron Intermediate
       - VueJS: Intermediate
       - Preact: Intermediate
       - Angular 2+: Intermediate
