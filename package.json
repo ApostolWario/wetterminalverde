@@ -5,7 +5,7 @@
   "main": "src/index.tsx",
   "scripts": {
     "start": "webpack-dev-server --hot .",
-    "build": "webpack .",
+    "build": "webpack -d .",
     "serve": "npm run build && http-server ./dist"
   },
   "repository": {
