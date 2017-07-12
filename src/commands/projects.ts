@@ -47,7 +47,7 @@ export class Projects implements Command {
       | FfMpeg
       | RethinkDB
       | RabbitMQ
-      - Time worked on: Juli 2017 - now.
+      - Time worked on: July 2017 - now.
 
       Tumult ledensysteem:
       This is a system for a local club to track members and incidents.
@@ -84,7 +84,7 @@ export class Projects implements Command {
       | VueJS + VueX
       | TypeScript
       | WebPack
-      - Time worked on: May 2017 - juni 2017.
+      - Time worked on: May 2017 - june 2017.
       - Source: https://github.com/AtlasDev/TICT-V1IPASS-15
 
       MailJS:
@@ -98,7 +98,7 @@ export class Projects implements Command {
       | WebSocket
       | MongoDB
       | Redis
-      - Time worked on: November 2015 - juli 2016.
+      - Time worked on: November 2015 - july 2016.
       - Source: https://github.com/AtlasDev/MailJS
 
       AtlasDev:
@@ -107,7 +107,7 @@ export class Projects implements Command {
       | TypeScript
       | Preact
       | Webpack
-      - Time worked on: Juli 2016.
+      - Time worked on: July 2016.
       - Source: https://github.com/AtlasDev/AtlasDev
 
       PartyParrotBot:
@@ -115,7 +115,7 @@ export class Projects implements Command {
       - The stack:
       | NodeJS
       | TypeScript
-      - Time worked on: Juli 2017.
+      - Time worked on: July 2017.
       - Source: https://github.com/AtlasDev/PartyParrotBot\
     `;
   }
