@@ -1,0 +1,40 @@
+{
+  "name": "atlasdev",
+  "version": "0.1.0",
+  "description": "Terminal emulator for my personal website.",
+  "main": "src/index.tsx",
+  "scripts": {
+    "start": "webpack-dev-server --hot .",
+    "build": "webpack .",
+    "serve": "npm run build && http-server ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AtlasDev/AtlasDev.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AtlasDev/AtlasDev/issues",
+    "email": "dany@atlasdev.nl"
+  },
+  "author": "Dany Sluijk <dany@atlasdev.nl> (https://atlasdev.nl)",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^8.0.9",
+    "awesome-typescript-loader": "^3.2.1",
+    "boilerpack": "^0.1.0",
+    "copy-webpack-plugin": "^4.0.1",
+    "css-loader": "^0.28.4",
+    "favicons-webpack-plugin": "0.0.7",
+    "html-webpack-plugin": "^2.29.0",
+    "http-server": "^0.10.0",
+    "style-loader": "^0.18.2",
+    "tslint": "^5.5.0",
+    "typescript": "^2.4.1",
+    "webpack": "^3.1.0",
+    "webpack-dev-server": "^2.5.1"
+  },
+  "dependencies": {
+    "decko": "^1.2.0",
+    "preact": "^8.1.0"
+  }
+}
