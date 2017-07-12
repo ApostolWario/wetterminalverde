@@ -44,7 +44,7 @@ export class Lang implements Command {
       - JavaScript: Advanced
       - Java: Intermediate
       - Python: Intermediate
-      - PHP: elementary - Intermediate
+      - PHP: Elementary - Intermediate
       - GoLang: Elementary
 
       JavaScipt Frameworks:
